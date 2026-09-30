@@ -1,4 +1,4 @@
-# TB StudyPlan AI v18
+# TB StudyPlan
 
 Asisten akademik untuk membantu menyusun rekomendasi mata kuliah berdasarkan IPS, semester, riwayat mata kuliah, prerequisite, dan bidang spesialisasi untuk mahasiswa S1 Teknik Biomedis UGM (kurikulum 2026).
 
