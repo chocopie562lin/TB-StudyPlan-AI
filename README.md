@@ -26,3 +26,6 @@ Sistem menggunakan Knowledge-Based System untuk menyimpan dan menerapkan aturan 
 
 ### Live Demo
 https://chocopie562lin.github.io/TB-StudyPlan-AI/
+
+### Link Presentasi 
+https://youtu.be/1-JC6OBrt8Y
